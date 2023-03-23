@@ -1,5 +1,6 @@
 ﻿
 using Application.Handler;
+using Application.Interface;
 using Application.Mapper;
 using Application.Model;
 using AutoMapper;
